@@ -1,2 +1,2 @@
 # AutoKoreksi
-Auto Koreksi adalah aplikasi rencana untuk memudahkan koreksi soal !
+Auto Koreksi adalah aplikasi rencana untuk memudahkan koreksi soal
